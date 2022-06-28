@@ -1,0 +1,130 @@
+{
+    "Name"
+    : "Имя",
+    
+    "Email"
+    : "Электронная почта",
+    
+    "Password"
+    : "Пароль",
+    
+    "Confirm Password"
+    : "Подтвердить пароль",
+    
+    "Already registered?"
+    : "Уже зарегистрирован?",
+    
+    "Register"
+    : "Регистрация",
+    
+    "Remember me"
+    : "Запомни меня",
+    
+    "Forgot your password?"
+    : "Забыли Ваш пароль?",
+    
+    "Log in"
+    : "Войти",
+
+    "Log out"
+    : "Выйти",
+    
+    "Email password reset link"
+    : "Адрес смены пароля",
+    
+    "forgot_password_text"
+    : "Забыли Ваш пароль? Без проблем. Просто сообщите нам свой адрес электронной почты, и мы отправим вам ссылку для сброса пароля, которая позволит вам выбрать новый.",
+    
+    "Whoops! Something went wrong."
+    : "Упс! Что-то пошло не так.",
+    
+    "Control Panel"
+    : "Панель управления",
+    
+    "Admin"
+    : "Администратор",
+
+    "Reset Password"
+    : "Сброс пароля",
+
+    "Send"
+    : "Отправлять",
+
+    "Phone"
+    : "Телефон",
+
+    "Home"
+    : "Главная",
+
+    "Products"
+    : "Товары",
+
+    "About"
+    : "О нас",
+
+    "About FAAC"
+    : "О FAAC",
+
+    "Contact"
+    : "Контакт",
+
+    "Contact us"
+    : "Свяжитесь с нами",
+
+    "Category"
+    : "Категория",
+
+    "Categories"
+    : "Категории",
+
+    "All products"
+    : "Все продукты",
+
+    "Address"
+    : "Адрес",
+
+    "Comment"
+    : "Комментарий",
+
+    "Connecting links"
+    : "Контактные ссылки",
+
+    "More info"
+    : "Больше информации",
+
+    "Download our Corporate presentation"
+    : "Загрузите нашу корпоративную презентацию",
+
+    "Location"
+    : "Расположение",
+
+    "Previous"
+    : "Предыдущий",
+
+    "Next"
+    : "Следующий",
+
+    "Key features"
+    : "Основные характеристики",
+
+    "Product"
+    : "Продукт",
+
+    "Product details"
+    : "Информация о продукте",
+
+    "Typical requirements for this product installation"
+    : "Типичные требования для установки этого продукта",
+
+    "Articulated Beam Instructions for product"
+    : "Пошаговая инструкция к продукта",
+
+    "Search for product spare parts and part numbers"
+    : "Поиск запасных частей и номеров деталей",
+
+    "Watch on video"
+    : "Смотреть на видео",
+
+    "Our milestone 50 years of business, for example, lead us to head towards even more ambitious aims and increasingly more significant results. For us, having reached them, and for all those who will be able to improve their lives thanks to FAAC technology, which, getting back to the figures, boasts the highest number of patents: 42 Gate automation originates from the intuition of our founder who first designed it and developed it. And together with us, remains in first place worldwide. And in our hearts."
+    : "Наша веха в 50 лет бизнеса, например, ведет нас к еще более амбициозным целям и все более значительным результатам. Для нас, достигших их, и для всех тех, кто сможет улучшить свою жизнь благодаря технологии FAAC, которая, если вернуться к цифрам, может похвастаться наибольшим количеством патентов: Автоматизация ворот 42 берет начало от интуиции нашего основателя, который впервые спроектировал и разработал его. И вместе с нами остается на первом месте в мире. И в наших сердцах."
+}

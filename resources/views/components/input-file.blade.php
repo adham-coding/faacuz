@@ -1,0 +1,3 @@
+@props(['disabled' => false])
+
+<input {{ $disabled ? 'disabled' : '' }} {!! $attributes->merge(['type' => 'file', 'class' => "text-xs text-slate-500 uppercase file:cursor-pointer file:uppercase file:mr-4 file:py-2 file:px-4 file:rounded-md file:border file:border-transparent file:tracking-widest file:text-xs file:font-bold file:bg-green-200 file:text-green-700 hover:file:bg-green-300 file:active:bg-green-400 file:active:text-green-50 file:shadow-md file:disabled:opacity-25 file:transition file:ease-in-out file:duration-150"]) !!}>

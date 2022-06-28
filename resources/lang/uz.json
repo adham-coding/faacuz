@@ -1,0 +1,127 @@
+{
+    "Name"
+    : "Ismingiz",
+    
+    "Email"
+    : "Elektron pochtangiz",
+    
+    "Password"
+    : "Parolingiz",
+    
+    "Confirm Password"
+    : "Parolingizni tasdiqlang",
+    
+    "Already registered?"
+    : "Ro'yxatdan o'tganmisiz?",
+    
+    "Register"
+    : "Ro'yxatdan o'tish",
+    
+    "Remember me"
+    : "Meni eslab qol",
+    
+    "Forgot your password?"
+    : "Parol esdan chiqdimi?",
+    
+    "Log in"
+    : "Kirish",
+
+    "Log out"
+    : "Chiqish",
+    
+    "Email password reset link"
+    : "Parolni yangilash manzili",
+    
+    "forgot_password_text"
+    : "Parol esdan chiqdimi? Muammo yo'q. Shunchaki bizga elektron pochta manzilingizni bildiring va biz elektron pochtangizga parolni yangilash imkonini beruvchi maxfiy manzilni yuboramiz.",
+    
+    "Whoops! Something went wrong."
+    : "Mmm!... Nimadir noto'g'ri.",
+    
+    "Control Panel"
+    : "Boshqaruv paneli",
+    
+    "Admin"
+    : "Administrator",
+
+    "Reset Password"
+    : "Parolni yangilash",
+
+    "Send"
+    : "Jo'natish",
+
+    "Phone"
+    : "Telefon raqamingiz",
+
+    "Home"
+    : "Bosh sahifa",
+
+    "Products"
+    : "Mahsulotlar",
+
+    "About"
+    : "Haqimizda",
+
+    "About FAAC"
+    : "FAAC haqida",
+
+    "Contact"
+    : "Kontakt",
+
+    "Contact us"
+    : "Biz bilan bog'lanish",
+
+    "Category"
+    : "Kategoriya",
+
+    "Categories"
+    : "Kategoriyalar",
+
+    "All products"
+    : "Barcha mahsulotlar",
+
+    "Address"
+    : "Manzil",
+
+    "Comment"
+    : "Sharx",
+
+    "Connecting links"
+    : "Kontaktlar",
+
+    "More info"
+    : "Ko'proq ma'lumot",
+
+    "Download our Corporate presentation"
+    : "Korporativ taqdimotimizni yuklab oling",
+
+    "Location"
+    : "Lokatsiya",
+
+    "Previous"
+    : "Avvalgi",
+
+    "Next"
+    : "Keyingi",
+
+    "Key features"
+    : "Asosiy xususiyatlar",
+
+    "Product"
+    : "Mahsulot",
+
+    "Product details"
+    : "Mahsulot tafsilotlari",
+
+    "Typical requirements for this product installation"
+    : "Ushbu mahsulotni o'rnatish uchun odatiy talablar",
+
+    "Articulated Beam Instructions for product"
+    : "Mahsulot uchun qadamli ko'rsatmalar",
+
+    "Search for product spare parts and part numbers"
+    : "Mahsulot ehtiyot qismlarini qidiring",
+
+    "Watch on video"
+    : "Videoda tomosha qiling"
+}
