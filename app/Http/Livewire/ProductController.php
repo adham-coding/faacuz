@@ -100,7 +100,7 @@ class ProductController extends Component
             'price' => $this->price,
             'slug' => str_replace(' ', '-', $this->name),
             // 'requirements' => $this->requirementsLink,
-            'youtube' => $this->youtubeLink,
+            'youtube' => str_replace('youtu.be', 'www.youtube.com/embed', $this->youtubeLink),
         ]);
 
         $this->alert(
@@ -143,7 +143,7 @@ class ProductController extends Component
             'price' => $this->price,
             // 'requirements' => $this->requirementsLink,
             'slug' => str_replace(' ', '-', $this->name),
-            'youtube' => $this->youtubeLink,
+            'youtube' => str_replace('youtu.be', 'www.youtube.com/embed', $this->youtubeLink),
         ]);
 
         $this->alert(
